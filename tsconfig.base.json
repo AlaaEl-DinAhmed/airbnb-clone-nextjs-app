@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@airbnb-clone-nextjs-app/ui-shared": ["libs/ui-shared/src/index.ts"],
       "@components/*": ["apps/airbnb-clone/app/components/*"]
     }
   },

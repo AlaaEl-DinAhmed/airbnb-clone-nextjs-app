@@ -4,6 +4,7 @@
   "license": "MIT",
   "scripts": {
     "start": "nx serve airbnb-clone",
+    "create:component": "nx g @nrwl/react:component --project=ui-shared",
     "prepare": "husky install"
   },
   "config": {
